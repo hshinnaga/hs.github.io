@@ -39,10 +39,11 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 研究内容'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        私の研究ミッション
+        宇宙における塵、分子、原子と磁力線がどのように相互作用し、星や銀河を形成することで、私たち生命の誕生と太陽系の豊かな物質の起源を探ります。
 
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
 
